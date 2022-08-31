@@ -1,0 +1,2 @@
+#!/bin/bash
+touch /tmp/ls/__ls__
